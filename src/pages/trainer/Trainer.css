@@ -1,0 +1,40 @@
+.trainer{
+  background-image: url(http://askproject.net/savasa/wp-content/uploads/sites/19/2021/08/overlay_Artboard-4_4.png);
+  background-color: #FEFAF6;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding-top: 50px;
+}
+.font-a{
+  color: #CF937C;
+  margin-bottom: 30px;
+  margin-top: 40px;
+}
+.desi{
+  padding-bottom: 110px;
+}
+.trainer-img{
+  width: 180px;
+  height: 180px;
+  border-radius: 50%;
+  margin-top: 40px;
+  margin-bottom: 30px;
+}
+.cc{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  padding-bottom: 40px;
+  margin-bottom: 60px;
+  background-color: #F4EDE6;
+  background-image: url(http://askproject.net/savasa/wp-content/uploads/sites/19/2021/08/overlay_Artboard-6_8.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.fa-fonts span{
+  margin: 15px;
+  color: #CF937C;
+}

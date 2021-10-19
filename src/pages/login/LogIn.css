@@ -1,0 +1,38 @@
+.forms{
+  border: 2px solid rgb(102, 100, 100);
+  border-radius: 20px;
+
+}
+.btn-sub{
+  padding-left: 80px;
+  padding-right: 80px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  background-color:#a5a39c ;
+  border: 1px solid rgb(136, 135, 130);
+  border-radius: 5px;
+  font-weight: 800;
+  font-size: larger;
+  color: white;
+
+}
+.int-field{
+  width: 50%;
+  height: 50px;
+  border: none;
+  border-bottom: 2px solid rgba(148, 143, 143, 0.801);
+  margin-bottom: 20px;
+  margin-top: 30px;
+}
+.btn-chng{
+  border: none;
+  background-color: rgb(126, 119, 119);
+  border-radius: 5px;
+  color: white;
+}
+.google{
+  border: 1px solid gray;
+  padding: 8px;
+  cursor: pointer;
+  border-radius: 10px;
+}

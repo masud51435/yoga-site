@@ -1,0 +1,61 @@
+.pack{
+  background-image: url(https://kriyawp.wpengine.com/wp-content/uploads/2016/04/pattern-chakras-alt-color.jpg?id=5252);
+  padding-bottom: 60px;
+}
+.buddha{
+  width: 38px;
+  height: 38px;
+  margin-left: 5px;
+  margin-right: 5px;
+  margin-bottom: 15px;
+}
+
+.card1{
+ background-color: #f1dcc6; 
+ padding-top: 50px;
+ padding-bottom: 50px;
+}
+.card1:hover{
+  border: 1px solid #C47A5E;
+}
+.card2{
+ background-color: #C47A5E; 
+ padding-top: 50px;
+ padding-bottom: 50px;
+}
+.card2:hover{
+  border: 1px solid #C47A5E;
+}
+.card3{
+ background-color: #eed2b7; 
+ padding-top: 50px;
+ padding-bottom: 50px;
+}
+.card3:hover{
+  border: 1px solid #C47A5E;
+}
+.regularbtn{
+  width: 50%;
+  margin-left: 25%;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  font-weight: 700;
+  background-color: #C47A5E;
+  border: 1px solid #C47A5E;
+  color: white;
+}
+.regularbtn:hover{
+  background-color: #7c3921;
+}
+.mediumbtn{
+  width: 50%;
+  margin-left: 25%;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  font-weight: 700;
+  background-color: white;
+  border: 1px solid white;
+}
+.mediumbtn:hover{
+  background-color: #7c3921;
+}

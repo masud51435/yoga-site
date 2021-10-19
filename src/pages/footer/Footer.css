@@ -1,0 +1,26 @@
+.footer{
+  background-color: #7e8446;
+  background-image: url(https://kriyawp.wpengine.com/wp-content/themes/kriya/images/pattern-chakras-white.png);
+  padding-top: 70px;
+  padding-bottom: 30px;
+}
+.footer-img{
+  height: 12vh;
+  width: fit-content;
+  margin-bottom: 10px;
+}
+.touch{
+  text-align: left;
+  padding-left: 50px;
+}
+.links{
+  text-align: left;
+  padding-left: 50px;
+}
+.foot-icon span{
+  margin: 15px;
+}
+hr{
+  color: white;
+  margin-bottom: 20px;
+}

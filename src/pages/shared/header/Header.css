@@ -1,0 +1,27 @@
+.navbar{
+  background-color: #7e8446;
+  background-image: url(https://kriyawp.wpengine.com/wp-content/themes/kriya/images/pattern-chakras-white.png);
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+.navbar a{
+  color: aliceblue;
+}
+.imge{
+  height: 6vh;
+  width: 100%;
+}
+.nav-btn{
+  padding-left: 8px;
+  padding-right: 8px;
+  padding-top: 3px;
+  padding-bottom: 3px;
+  margin: 2px solid red;
+  background-color: darkorange;
+  border-radius: 5px;
+  color: white;
+  font-weight: 500;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  margin-right: 15px;
+}

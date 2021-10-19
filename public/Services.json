@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "open": "27/07/2016",
+    "time": "10:00 - 11:00",
+    "name": "ASTANGA YOGA",
+    "title": "Ashtanga Vinyasa Yoga is a style of yoga as exercise popularised by K. Pattabhi Jois during the 20th century, often promoted as a modern-day form of classical Indian yoga. He claimed to have learnt the system from his teacher, Tirumalai Krishnamacharya.",
+    "img": "https://kriyawp.wpengine.com/wp-content/uploads/2016/06/icon-thumb1.jpg"
+  },
+  {
+    "id": 2,
+    "open": "15/04/2016",
+    "time": "09:00 - 11:00",
+    "name": "HATHA YOGA",
+    "title": "Hatha yoga is the branch of yoga that typically comes to mind when you think of yoga in general terms. The practice involves breath, body, and mind, and classes are usually 45 minutes to 90 minutes of breathing, yoga poses, and meditation.",
+    "img": "https://kriyawp.wpengine.com/wp-content/uploads/2016/06/icon-thumb2.jpg"
+  },
+  {
+    "id": 3,
+    "open": "20/04/2016",
+    "time": "14:00 - 16:00",
+    "name": "IYENGAR YOGA",
+    "title": "Iyengar Yoga, named after and developed by B. K. S. Iyengar, and described in his bestselling 1966 book Light on Yoga, is a form of yoga as exercise that has an emphasis on detail, precision and alignment in the performance of yoga postures (asanas).",
+    "img": "https://kriyawp.wpengine.com/wp-content/uploads/2016/06/icon-thumb3.jpg"
+  },
+  {
+    "id": 4,
+    "open": "05/05/2016",
+    "time": "09:00 - 12:00",
+    "name": "KUNDALINI YOGA",
+    "title": "Kundalini yoga is a form of yoga that involves chanting, singing, breathing exercises, and repetitive poses. Its purpose is to activate your Kundalini energy, or shakti. This is a spiritual energy that's said to be located at the base of your spine",
+    "img": "https://kriyawp.wpengine.com/wp-content/uploads/2016/06/icon-thumb4.jpg"
+  },
+  {
+    "id": 5,
+    "open": "24/08/2017",
+    "time": "6:00 - 9:00",
+    "name": "VINAYASA YOGA",
+    "title": "Vinyasa is a style of yoga characterized by stringing postures together so that you move from one to another, seamlessly, using breath.  Commonly referred to as “flow” yoga, it is sometimes confused with “power yoga“.",
+    "img": "http://wp.nootheme.com/hermosa/wp-content/uploads/2016/04/Yoga-Class.jpg"
+  },
+  {
+    "id": 6,
+    "open": "22/10/2016",
+    "time": "12:00 - 14:00",
+    "name": "YOGA DANCE",
+    "title": "Dance Yoga is a combination of Yoga and Contemporary Movements. This sequence has been created with an aim to get your heart pumping, stretch out your body and to have fun! Try it out and let me know how it was for you!",
+    "img": "http://wp.nootheme.com/hermosa/wp-content/uploads/2016/04/group-of-people-on-blue-mats-doing-yoga.jpg"
+  }
+]

@@ -1,0 +1,37 @@
+.services{
+  background-image: url(https://kriyawp.wpengine.com/wp-content/uploads/2016/04/pattern-chakras-alt-color.jpg?id=5252);
+
+}
+.design{
+  display: flex;
+  flex-direction: row;
+  text-align: center;
+  margin-top: 10px;
+  margin-bottom: 20px;
+}
+.dd{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.img{
+  margin-bottom: 30px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+.dots{
+  border: 1px solid #A58251;
+  width: 90px;
+
+}
+.lines{
+  border: 1px dotted #A58251;
+  width: 90px;
+  margin-top: 5px;
+}
+.dots-lines{
+  margin-top: 25px;
+}
+.cards{
+  margin-top: 30px;
+}

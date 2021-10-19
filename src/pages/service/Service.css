@@ -1,0 +1,25 @@
+.service-img{
+  width: 130px;
+  height: 130px;
+  border-radius: 50%;
+  border: 5px solid #e09866;
+  margin-top: 40px;
+  margin-bottom: 30px;
+  transition: transform .4s;
+}
+.service-img:hover{
+  transform: scale(1.3);
+  transform-origin: 50% 50%;
+}
+
+.line{
+  border: 1px solid #CDB89A;
+  margin-bottom: 30px;
+}
+.dotted{
+  border: 1px dotted #CDB89A;
+  margin-bottom: 4px;
+}
+.name{
+  color: #E09866;
+}

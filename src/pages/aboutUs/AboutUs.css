@@ -1,0 +1,20 @@
+.about{
+  background-color: #F4EDE6;
+  padding-top: 60px;
+}
+.left-line{
+  border: 1px solid black;
+  width: 60px;
+  margin-right: 10px;
+}
+.right-line{
+  border: 1px solid black;
+  width: 60px;
+  margin-left: 10px;
+}
+.about-top{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 30px;
+}
