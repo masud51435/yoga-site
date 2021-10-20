@@ -59,7 +59,8 @@ const useFirebase = () => {
     
 
     isLog ? processLogin(email, password) : createNewUser(email, password)
-
+    
+    e.target.reset();
   }
 
   const processLogin = (email, password) => {
