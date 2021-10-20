@@ -4,7 +4,7 @@ import './Trainer.css'
 
 const Trainer = () => {
   return (
-    <div className="trainer">
+    <div className="trainer" id="trainer">
       <Container>
         <Row lg={4} md={2} xs={1} className="desi">
           <Col>

@@ -8,7 +8,8 @@ import Button from '@restart/ui/esm/Button';
 
 
 const LogIn = () => {
-  const { signInUseingGoogle, handleResetPassword, setUserName, verifyEmail, toggleLogin , handlePasswordChange, handleEmailChange, handleNameChange ,createNewUser, processLogin, handleRegistation, isLog, error } = useAuth();
+  const { signInUseingGoogle, handleResetPassword,  toggleLogin, handlePasswordChange, handleEmailChange, handleNameChange,  handleRegistation, isLog, error } = useAuth();
+  
   const location = useLocation();
   const history = useHistory()
 
@@ -21,21 +22,21 @@ const LogIn = () => {
 
 
   return (
-    <div className="container bg-light">
-       <div className="forms my-5 py-4">
+    <div className=" bg-light ">
+       <div className="forms my-5 py-4 container">
       <Form onSubmit={handleRegistation}>
 
         <h1 style={{color:"#484338", marginBottom:"20px"}}>Please {isLog ? 'Login' : 'Register'}</h1>
 
         <h6 className={{color:"#484338", marginBottom:"20px"}}>{isLog ? 'Login' : 'Register'} With Email & Password</h6>
 
-        {!isLog && <input className="int-field" onBlur={handleNameChange} type="text" name="text" id="" placeholder=' Enter Your Name' required />}
+        {!isLog && <input className="int-field" onBlur={handleNameChange} type="text" name="text" id="1" placeholder=' Enter Your Name' required />}
 
         <br />
-        <input className="int-field" onBlur={handleEmailChange} type="email" name="email" id="" placeholder=' Enter Your Email' required />
+        <input className="int-field" onBlur={handleEmailChange} type="email" name="email" id="2" placeholder=' Enter Your Email' required />
 
         <br />
-        <input className="int-field" onBlur={handlePasswordChange} type="password" name="password" id="" placeholder="Enter Your Password" required />
+        <input className="int-field" onBlur={handlePasswordChange} type="password" name="password" id="3" placeholder="Enter Your Password" required />
         <br />
         <h1 className="text-danger">{error}</h1>
 

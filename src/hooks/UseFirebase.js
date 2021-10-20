@@ -25,7 +25,7 @@ const useFirebase = () => {
       .finally(() => setIsLoading(false))
       
       .catch(error => {
-      setUser(error.message)
+      setError(error.message)
     })
   }
 
@@ -139,7 +139,7 @@ const useFirebase = () => {
   }
 
   return {
-    user, signOut, signInUseingGoogle, error, Logout, isLoading, handleResetPassword, setUserName, verifyEmail, toggleLogin , handlePasswordChange, handleEmailChange, handleNameChange ,createNewUser, processLogin, handleRegistation, isLog, error 
+    user, signOut, signInUseingGoogle, error, Logout, isLoading, handleResetPassword,  toggleLogin , handlePasswordChange, handleEmailChange, handleNameChange , handleRegistation, isLog, email, password
   }
 
 

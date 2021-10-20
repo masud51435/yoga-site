@@ -4,7 +4,7 @@ import './Gallery.css'
 
 const Gallery = () => {
   return (
-    <div className="top-gallery">
+    <div className="top-gallery" id="gallery">
       <Container>
         <Col className="top-gall">
         <h1 style={{ color: "#484338" }}>Gallery</h1>
@@ -46,7 +46,7 @@ const Gallery = () => {
                 </div>
             </div>
             </div>
-            <p>We at KRIYA provide various services to the nature of the clients. Wish how you would like to spend the time here we can talk and come to a conclusion.</p>
+            <p>We at AELKYA provide various services to the nature of the clients. Wish how you would like to spend the time here we can talk and come to a conclusion.</p>
             <button className="purchase-btn">VIEW GALLERY</button>
           </Col>
           <Col>
