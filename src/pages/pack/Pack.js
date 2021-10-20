@@ -4,7 +4,7 @@ import './Pack.css'
 
 const Pack = () => {
   return (
-    <div className="pack">
+    <div className="pack" id="pack">
       <Container>
         <h1 style={{ color: "#484338", paddingTop: "60px" }}>Pick a Yoga Pack</h1>
         <div className="dd">
@@ -37,10 +37,10 @@ const Pack = () => {
             <h4 style={{color:"#513125",marginBottom:"20px"}}>Regular Class</h4>
             <p style={{color:"gray", marginBottom:"50px"}}>regular class details you can see here.</p>
             <h2 style={{color:"#C47A5E", marginBottom:"20px"}}>$ 40.00 / month</h2>
-            <h6 style={{color:"gray"}}> <i class="fas fa-check"></i> Consultation</h6>
-            <h6 style={{color:"gray"}}> <i class="fas fa-check"></i> 4 Hours Training</h6>
-            <h6 style={{color:"gray"}}> <i class="fas fa-check"></i> Cancel Anytime</h6>
-            <h6 style={{color:"gray", marginBottom:"50px"}}> <i class="fas fa-check"></i> No Hidden Fees</h6>
+            <h6 style={{color:"gray"}}> <i className="fas fa-check"></i> Consultation</h6>
+            <h6 style={{color:"gray"}}> <i className="fas fa-check"></i> 4 Hours Training</h6>
+            <h6 style={{color:"gray"}}> <i className="fas fa-check"></i> Cancel Anytime</h6>
+            <h6 style={{color:"gray", marginBottom:"50px"}}> <i className="fas fa-check"></i> No Hidden Fees</h6>
             <button className="regularbtn">Get Started</button>
             </Card>
           </Col>
@@ -49,10 +49,10 @@ const Pack = () => {
             <h4 style={{color:"white",marginBottom:"20px"}}>Medium Class</h4>
             <p style={{color:"white", marginBottom:"50px"}}>medium class details you can see here.</p>
             <h2 style={{color:"white", marginBottom:"20px"}}>$ 55.00 / month</h2>
-            <h6 style={{color:"white"}}> <i class="fas fa-check"></i> Consultation</h6>
-            <h6 style={{color:"white"}}> <i class="fas fa-check"></i> 4 Hours Training</h6>
-            <h6 style={{color:"white"}}> <i class="fas fa-check"></i> Cancel Anytime</h6>
-            <h6 style={{color:"white", marginBottom:"50px"}}> <i class="fas fa-check"></i> No Hidden Fees</h6>
+            <h6 style={{color:"white"}}> <i className="fas fa-check"></i> Consultation</h6>
+            <h6 style={{color:"white"}}> <i className="fas fa-check"></i> 4 Hours Training</h6>
+            <h6 style={{color:"white"}}> <i className="fas fa-check"></i> Cancel Anytime</h6>
+            <h6 style={{color:"white", marginBottom:"50px"}}> <i className="fas fa-check"></i> No Hidden Fees</h6>
             <button className="mediumbtn">Get Started</button>
             </Card>
           </Col>
@@ -61,10 +61,10 @@ const Pack = () => {
           <h4 style={{color:"#513125",marginBottom:"20px"}}>Expert Class</h4>
             <p style={{color:"gray", marginBottom:"50px"}}>expert class details you can see here.</p>
             <h2 style={{color:"#C47A5E", marginBottom:"20px"}}>$ 77.00 / month</h2>
-            <h6 style={{color:"gray"}}> <i class="fas fa-check"></i> Consultation</h6>
-            <h6 style={{color:"gray"}}> <i class="fas fa-check"></i> 4 Hours Training</h6>
-            <h6 style={{color:"gray"}}> <i class="fas fa-check"></i> Cancel Anytime</h6>
-            <h6 style={{color:"gray", marginBottom:"50px"}}> <i class="fas fa-check"></i> No Hidden Fees</h6>
+            <h6 style={{color:"gray"}}> <i className="fas fa-check"></i> Consultation</h6>
+            <h6 style={{color:"gray"}}> <i className="fas fa-check"></i> 4 Hours Training</h6>
+            <h6 style={{color:"gray"}}> <i className="fas fa-check"></i> Cancel Anytime</h6>
+            <h6 style={{color:"gray", marginBottom:"50px"}}> <i className="fas fa-check"></i> No Hidden Fees</h6>
             <button className="regularbtn">Get Started</button>
             </Card>
           </Col>

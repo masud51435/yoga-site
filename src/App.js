@@ -11,7 +11,6 @@ import Footer from './pages/footer/Footer';
 import Gallery from './pages/gallery/Gallery';
 import AboutUs from './pages/aboutUs/AboutUs';
 import LogIn from './pages/login/LogIn';
-import SignUp from './pages/signUp/SignUp';
 import ServiceItem from './pages/service-item/ServiceItem';
 import AuthProvider from './context/AuthProvider';
 import PrivateRoute from './pages/privateRoute/PrivateRoute';

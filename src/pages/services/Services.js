@@ -11,7 +11,7 @@ const Services = () => {
       .then(data => setServices(data))
   }, []);
   return (
-    <div className="services" >
+    <div className="services" id="services">
       <div className="container py-5">
         <div>
           <h1 style={{color:"#484338"}}>A BRIEF DESCRIPTION ABOUT THE WAYS OF YOGA</h1>
